@@ -25,8 +25,7 @@ Jumper Wires
 Breadboard
 
 Circuit Diagram
-![circuit]([URL_gambar](https://a.top4top.io/p_3280xktwu1.png))
-
+![Circuit Diagram](https://a.top4top.io/p_3280xktwu1.png)
 
 How to Use
 
