@@ -49,3 +49,5 @@ You can play the following musical notes:
 - **Visual Feedback**: Add LEDs to indicate the pressed note visually.
 
 This project is ideal for learning about basic electronics and Arduino programming while creating a functional and fun digital instrument.
+
+<p align="center">©️ 2024 Rechan Dinata</p>
