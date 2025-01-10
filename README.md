@@ -2,6 +2,8 @@
 
 The Pianika IOT project emulates a simple digital piano using an Arduino microcontroller. It allows you to play musical notes (DO, RE, MI, FA, SOL, LA, SI) by pressing physical buttons, which trigger sound output through a connected speaker or buzzer.
 
+---
+
 You can play the following musical notes:
 - **DO**
 - **RE**
