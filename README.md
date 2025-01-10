@@ -50,6 +50,13 @@ You can play the following musical notes:
 - **Volume Control**: Integrate a potentiometer for adjustable volume.
 - **Visual Feedback**: Add LEDs to indicate the pressed note visually.
 
-This project is ideal for learning about basic electronics and Arduino programming while creating a functional and fun digital instrument.
+---
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to modify the code or improve the project as needed!
 
 <p align="center">©️ 2024 Rechan Dinata</p>
